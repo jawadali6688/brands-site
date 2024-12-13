@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWD754-BLU_1_510x.jpg?v=1721633313",
+            "title": "Cargo Pent",
+            "color": "Blue",
+            "size": "S M",
+            "price": 1400,
+            "description": "Stylish and functional cargo pants with multiple pockets for convenience. Ideal for casual wear.",
+            "similarity_score": 0.9574705362319946
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWD754-BLU_2_510x.jpg?v=1721633313",
+            "title": "Baggy Cargo",
+            "color": "Blue",
+            "size": "S M",
+            "price": 1400,
+            "description": "Comfortable baggy cargo pants with a relaxed fit, perfect for a laid-back look.",
+            "similarity_score": 0.8577854633331299
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWD744-LBU_1_510x.jpg?v=1721633302",
+            "title": "Wide Pent",
+            "color": "Blue",
+            "size": "S M",
+            "price": 1999,
+            "description": "Wide-leg pants offering a blend of style and comfort, perfect for casual and semi-formal occasions.",
+            "similarity_score": 0.8643583059310913
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWD744-LBU_2_510x.jpg?v=1721633303",
+            "title": "Cargo Pent",
+            "color": "Blue",
+            "size": "S M L",
+            "price": 2499,
+            "description": "Versatile blue cargo pants with an adjustable fit, featuring multiple utility pockets.",
+            "similarity_score": 0.8082380890846252
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWD745-BLK_2_510x.jpg?v=1721633306",
+            "title": "Baggy Cargo",
+            "color": "Blue",
+            "size": "S M",
+            "price": 2250,
+            "description": "Relaxed-fit cargo pants with extra room for comfort, ideal for a casual and stylish appearance.",
+            "similarity_score": 0.7027462720870972
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWP910-BRN_1_510x.jpg?v=1724663412",
+            "title": "Wide Pent",
+            "color": "Brown",
+            "size": "S M",
+            "price": 3199,
+            "description": "Fashion-forward wide-leg pants in a rich brown tone, perfect for both casual and formal wear.",
+            "similarity_score": 0.686726450920105
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWP910-BRN_2_510x.jpg?v=1724663412",
+            "title": "Cargo Pent",
+            "color": "Brown",
+            "size": "S M",
+            "price": 2100,
+            "description": "Practical cargo pants with a stylish edge, offering functionality with ample pocket space.",
+            "similarity_score": 0.6182599663734436
+        },
+        {
+            "image_url": "https://breakout.com.pk/cdn/shop/files/4ESWD745-BLK_1_510x.jpg?v=1721633306",
+            "title": "Baggy Cargo",
+            "color": "Black",
+            "size": "S M L",
+            "price": 2600,
+            "description": "Black baggy cargo pants with a loose fit, perfect for a trendy, relaxed outfit.",
+            "similarity_score": 0.7441942691802979
+        }
+    ]
+}
